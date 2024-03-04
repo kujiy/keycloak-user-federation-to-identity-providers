@@ -1,0 +1,13 @@
+[
+    {
+        "username": "taro",
+        "enabled": true,
+        "emailVerified": true,
+        "firstName": "taro",
+        "lastName": "yamada",
+        "email": "taro@YOUR_COMPANY.com"
+    },
+    {
+        // ...
+    }
+]
